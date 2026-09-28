@@ -6,13 +6,13 @@
     <section class="bento-grid">
       <article class="card hero-card span-3">
         <div class="hero-topbar">
-          <div class="avatar">K</div>
+          <div class="avatar">k</div>
           <div class="status-pill">● Online</div>
         </div>
 
         <div class="hero-copy">
-          <p class="eyebrow">Developer / designer / builder</p>
-          <h1>Kosi<span>.</span></h1>
+          <p class="eyebrow">Developer in training</p>
+          <h1>Planet <span>.</span> Kosi</h1>
           <p class="role">Frontend developer with a taste for polished interfaces and cosmic systems.</p>
         </div>
 
@@ -33,8 +33,8 @@
       <article class="card online-card span-1">
         <div class="card-label">Online accounts</div>
         <ul class="link-list">
-          <li><a href="#">Instagram</a></li>
-          <li><a href="#">X / Twitter</a></li>
+          <li><a href="https://instagram.com/planetkosii">Instagram</a></li>
+          <li><a href="https://twitter.com/planetkosi">X / Twitter</a></li>
           <li><a href="#">LinkedIn</a></li>
         </ul>
       </article>
