@@ -94,6 +94,7 @@
           <span>HTML</span>
           <span>Node</span>
           <span>Figma</span>
+          <span>Vercel</span>
         </div>
       </article>
 
@@ -127,22 +128,9 @@
             <div>
               <span class="project-tag">Product</span>
               <h3>Northstar CRM</h3>
+              <p1>This is a </p1>
             </div>
             <span>2025</span>
-          </div>
-          <div class="project-row">
-            <div>
-              <span class="project-tag">Brand</span>
-              <h3>Monarch Studio</h3>
-            </div>
-            <span>2024</span>
-          </div>
-          <div class="project-row">
-            <div>
-              <span class="project-tag">Experience</span>
-              <h3>Harbor Wallet</h3>
-            </div>
-            <span>2023</span>
           </div>
         </div>
       </article>

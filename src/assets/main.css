@@ -374,6 +374,11 @@ ul {
   font-size: 1.2rem;
 }
 
+.project-row p1 {
+  color: var(--shadow);
+  letter-spacing: 0.1em;
+}
+
 @media (max-width: 900px) {
   .bento-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
