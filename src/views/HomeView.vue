@@ -17,7 +17,7 @@
         </div>
 
         <div class="hero-meta">
-          <span>Based in Lagos</span>
+          <span>Zimbabwean</span>
           <span>Available for projects</span>
         </div>
       </article>
@@ -25,8 +25,8 @@
       <article class="card about-card span-3">
         <div class="card-label">About me</div>
         <p>
-          I build calm, useful interfaces for people who want software that feels intentional.
-          I enjoy turning technical complexity into clear experiences and shipping products that look sharp while staying easy to use.
+          I am learning to build useful interfaces, new programming languages and honing my skills.
+          
         </p>
       </article>
 
